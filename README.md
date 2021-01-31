@@ -20,7 +20,7 @@
 With the shoe price scrapper you can search shoe prices without opening your browser.
 It is only usabele for puma shoes. But I'm workin on a universell version so it can be used for every shoe website.
 
-![alt text](https://github.com/Toxic-Basket/Shoe-prices-scraping-with-Beautifulsoup/blob/main/codepicture.png)
+![alt text](https://github.com/Toxic-Basket/Shoe-prices-scraping-with-Beautifulsoup/blob/main/code.PNG)
 
 
 
